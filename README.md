@@ -27,4 +27,4 @@ Sou um autodidata que no momento está buscando uma oportunidade de emprego como
   <a href="https://www.linkedin.com/in/arthur-nardini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-![Snake animation](https://github.com/nardini-22)
+![Snake animation] (https://github.com/nardini-22)
