@@ -1,11 +1,13 @@
 ### Olá mundo! Meu nome é Arthur Nardini 👋
-Sou um autodidata que no momento está buscando uma oportunidade de emprego como Desenvolvedor Front-End 
+Sou um autodidata que no momento está buscando uma oportunidade de emprego como Desenvolvedor Front-End
+
+##
 
 - 🔭 Trabalhando: NextJS
 - 🌱 Estudando: Typescript
 - 😄 Pronouns: Ele/dele
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/nardini-22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nardini-22&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardini-22&theme=synthwave&layout=compact" />
