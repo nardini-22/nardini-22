@@ -4,7 +4,7 @@ Sou um autodidata que no momento está buscando uma oportunidade de emprego como
 ##
 
 - 🔭 Trabalhando: NextJS
-- 🌱 Estudando: Typescript
+- 🌱 Estudando: NodeJS
 - 😄 Pronouns: Ele/dele
 
 <div>
