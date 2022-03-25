@@ -1,12 +1,12 @@
 ## Olá mundo! Meu nome é Arthur Nardini 👋
 
 ### Sobre
-Criativo, autodidata e entusiasta de tecnologia desenvolvedor frontend que está cursando análise e desenvolvimento de sistemas na Fatec Bragança Paulista, que me classifiquei em 5º lugar no meu curso. Sempre buscando aprender mais sobre tecnologia, suas tendências e obter mais conhecimeto em programação. Pretendo dar o meu melhor em qualquer tarefa almejando evoluir junto a empresa. 
+Criativo, autodidata e entusiasta de tecnologia desenvolvedor frontend que está cursando análise e desenvolvimento de sistemas na Fatec Bragança Paulista, que me classifiquei em 5º lugar no meu curso. Sempre buscando aprender mais sobre tecnologia, suas tendências e obter mais conhecimeto em programação. Pretendo dar o meu melhor em qualquer tarefa almejando evoluir.
 
 ##
 
-- 🔭 Trabalhando: NextJS
-- 🌱 Estudando: NodeJS, MongoDB
+- 🔭 Trabalhando: ReactJS
+- 🌱 Estudando: GraphQL
 - 😄 Pronouns: Ele/dele
 
 <div>
