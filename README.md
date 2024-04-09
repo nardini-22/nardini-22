@@ -6,7 +6,7 @@ Criativo, autodidata e entusiasta de tecnologia desenvolvedor frontend que está
 ##
 
 - 🔭 Trabalhando: ReactJS
-- 🌱 Estudando: GraphQL
+- 🌱 Estudando: NestJS
 - 😄 Pronouns: Ele/dele
 
 <div>
