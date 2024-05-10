@@ -1,13 +1,12 @@
-## Olá mundo! Meu nome é Arthur Nardini 👋
+## Hello World! My name is Arthur Nardini 👋
 
-### Sobre
-Criativo, autodidata e entusiasta de tecnologia desenvolvedor frontend que está cursando análise e desenvolvimento de sistemas na Fatec Bragança Paulista, que me classifiquei em 5º lugar no meu curso. Sempre buscando aprender mais sobre tecnologia, suas tendências e obter mais conhecimeto em programação. Pretendo dar o meu melhor em qualquer tarefa almejando evoluir.
+### About
+Frontend developer with more than 3 years of experience in the technology field. Also, knowledge in the design field. Highlighted soft-skills organization, creativity, fast-paced learning, communication, innovation and problem-solving.
 
 ##
 
-- 🔭 Trabalhando: ReactJS
+- 🔭 Working: React.js
 - 🌱 Estudando: NestJS
-- 😄 Pronouns: Ele/dele
 
 <div>
   <a href="https://github.com/nardini-22">
