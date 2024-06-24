@@ -2,9 +2,6 @@
 
 ## About
 Frontend developer with more than 3 years of experience in the technology field. Also, knowledge in the design field. Highlighted soft-skills organization, creativity, fast-paced learning, communication, innovation and problem-solving.
-
-##
-
 - 🔭 Working: React.js
 - 🌱 Learning: NestJS
 
