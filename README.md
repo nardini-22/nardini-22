@@ -6,7 +6,7 @@ Frontend developer with more than 3 years of experience in the technology field.
 ##
 
 - 🔭 Working: React.js
-- 🌱 Estudando: NestJS
+- 🌱 Learning: NestJS
 
 <div>
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=nardini-22&show_icons=true&theme=synthwave"/>
