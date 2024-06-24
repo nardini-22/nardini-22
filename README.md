@@ -36,5 +36,3 @@ Frontend developer with more than 3 years of experience in the technology field.
   <a href="mailto:arthur.nardini03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arthur-nardini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
-![Snake animation](https://github.com/nardini-22/nardini-22/blob/output/github-contribution-grid-snake.svg)
